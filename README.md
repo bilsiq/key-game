@@ -1,6 +1,6 @@
 # color-game
 
-[Live view](https://yousef-aldawoud.github.io/color-game/)
+[Live view](https://bilsiq.github.io/key-game/)
 
 ## Project setup
 ```
